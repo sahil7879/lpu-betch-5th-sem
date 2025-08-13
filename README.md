@@ -3,9 +3,9 @@
 - https://etherpad.opendev.org/p/r.f4398866e04a02c545302bc6456702ce
 - https://excalidraw.com/#json=Bg82sk7zp5tLMaE2Zq2IM,b42zzdW6FgkG_vKPEtWhsQ  
 ## learning path 
-221 ARCHITECTING WITH GOOGLE COMPUTE ENGINE
-[Cloud Engineer Learning Path](https://www.cloudskillsboost.google/paths/11) 
-222 OPTIMIZING DATA WAREHOUSES WITH BIGQUERY
-[Data Engineer Learning Path](https://www.cloudskillsboost.google/paths/16)
+### 221 ARCHITECTING WITH GOOGLE COMPUTE ENGINE  
+[Cloud Engineer Learning Path](https://www.cloudskillsboost.google/paths/11)   
+### 222 OPTIMIZING DATA WAREHOUSES WITH BIGQUERY  
+[Data Engineer Learning Path](https://www.cloudskillsboost.google/paths/16)  
 [Associate Data Practitioner Learning Path](https://www.cloudskillsboost.google/paths/1336
-)
+)  
