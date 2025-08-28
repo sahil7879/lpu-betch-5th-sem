@@ -5,7 +5,8 @@
 ## [BIGQUERY DOCS](https://cloud.google.com/bigquery/docs/introduction)
 ## learning path 
 ### 221 ARCHITECTING WITH GOOGLE COMPUTE ENGINE  
-[Cloud Engineer Learning Path](https://www.cloudskillsboost.google/paths/11)   
+[Cloud Engineer Learning Path](https://www.cloudskillsboost.google/paths/11)      
+[Cloud Architect Learning Path](https://www.cloudskillsboost.google/paths/12)
 ### 222 OPTIMIZING DATA WAREHOUSES WITH BIGQUERY  
 [Data Engineer Learning Path](https://www.cloudskillsboost.google/paths/16)  
 [Associate Data Practitioner Learning Path](https://www.cloudskillsboost.google/paths/1336
