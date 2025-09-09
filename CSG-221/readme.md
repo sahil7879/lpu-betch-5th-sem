@@ -10,3 +10,4 @@
 - [Cloud IAM: Qwik Start](https://www.cloudskillsboost.google/paths/8/course_templates/637/labs/526670)
 - [IAM Custom Roles](https://www.cloudskillsboost.google/paths/76/course_templates/770/labs/558280)
 - [Service Accounts and Roles: Fundamentals](https://www.cloudskillsboost.google/paths/76/course_templates/770/labs/558281)
+- [Configuring, Using, and Auditing VM Service Accounts and Scopes](https://www.cloudskillsboost.google/paths/76/course_templates/87/labs/534123)
