@@ -8,3 +8,5 @@
 - [Working with Virtual Machines](https://www.cloudskillsboost.google/paths/11/course_templates/50/labs/578309)
 - [Creating a Persistent Disk](https://www.cloudskillsboost.google/focuses/1753?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=52111215)
 - [Cloud IAM: Qwik Start](https://www.cloudskillsboost.google/paths/8/course_templates/637/labs/526670)
+- [IAM Custom Roles](https://www.cloudskillsboost.google/paths/76/course_templates/770/labs/558280)
+- [Service Accounts and Roles: Fundamentals](https://www.cloudskillsboost.google/paths/76/course_templates/770/labs/558281)
