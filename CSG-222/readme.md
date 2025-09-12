@@ -7,3 +7,5 @@
 - [Creating Date-Partitioned Tables in BigQuery](https://www.cloudskillsboost.google/focuses/3694?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=52292517)
 - [Manage a partitioned table in BigQuery](http://cloudskillsboost.google/paths/420/course_templates/1304/labs/564540)
 - [Working with JSON, Arrays, and Structs in BigQuery](https://www.cloudskillsboost.google/focuses/3696?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=53041011)
+- [BigQuery Soccer Data Ingestion](https://www.cloudskillsboost.google/focuses/23114?catalog_rank=%7B%22rank%22%3A22%2C%22num_filters%22%3A2%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=53212478)
+- [Building Batch Pipelines in Cloud Data Fusion](https://www.cloudskillsboost.google/focuses/12363?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=53212718)
