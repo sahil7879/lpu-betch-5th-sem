@@ -1,7 +1,7 @@
 # lpu-betch-5th-sem
 ## online notepad and diagrams
 - https://etherpad.opendev.org/p/r.f4398866e04a02c545302bc6456702ce
-- https://excalidraw.com/#json=d0MNTEf0yZLfUBY5UH7M2,fTGUBgSDfmPRgK_C6loAOQ
+- https://excalidraw.com/#json=sqcbwtkEty1tVFuPB3GFR,yyoLrlKiUMItrVpp9FBzxA
 ## [BIGQUERY DOCS](https://cloud.google.com/bigquery/docs/introduction)
 ## learning path 
 ### 221 ARCHITECTING WITH GOOGLE COMPUTE ENGINE  
