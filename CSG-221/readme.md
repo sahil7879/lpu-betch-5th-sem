@@ -16,7 +16,6 @@
 - [Cloud SQL for MySQL: Qwik Start](https://www.cloudskillsboost.google/focuses/936?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=53450366)
 - [Cloud Spanner: Qwik Start](https://www.cloudskillsboost.google/focuses/1774?catalog_rank=%7B%22rank%22%3A28%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=53450420)
 - [Creating Spanner Instances and Databases (Console)](https://www.cloudskillsboost.google/focuses/73045?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=53864518)
-- [Getting Started with Firebase Cloud Firestore](https://www.cloudskillsboost.google/focuses/68533?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=53864558)
 - [Using Memorystore for Redis Read Replicas to Improve Read Performance](https://www.cloudskillsboost.google/focuses/31116?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=53864719)
 - [Designing and Querying Bigtable Schemas](https://www.cloudskillsboost.google/focuses/92496?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=54006304)
 - [Cloud Monitoring: Qwik Start](https://www.skills.google/focuses/10599?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=57496956)
