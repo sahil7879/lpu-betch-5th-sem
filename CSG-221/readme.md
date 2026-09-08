@@ -24,3 +24,7 @@
 - [Using Cloud Trace on Kubernetes Engine](https://www.skills.google/focuses/5159?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=57814397)
 - [Optimizing Applications Using Cloud Profiler](https://www.skills.google/focuses/60461?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=57814484)
 - [VPC Networking: Cloud HA-VPN](https://www.skills.google/focuses/6270?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=58099704)
+## Challenge labs 
+- [Set Up a Google Cloud Network: Challenge Lab](https://www.skills.google/focuses/10417?parent=catalog)
+- [Configure Service Accounts and IAM Roles for Google Cloud: Challenge Lab](https://www.skills.google/focuses/67219?parent=catalog)
+- [The Basics of Google Cloud Compute: Challenge Lab](http://skills.google/focuses/65384?locale=en&parent=catalog)
