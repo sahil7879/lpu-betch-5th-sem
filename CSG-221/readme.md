@@ -26,6 +26,15 @@
 - [VPC Networking: Cloud HA-VPN](https://www.skills.google/focuses/6270?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=58099704)
 - [VPC Network Peering](https://www.skills.google/focuses/964?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=100827873)
 - [Configuring Network Connectivity Center as a Transit Hub](https://www.skills.google/focuses/18539?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=100828000)
+- [Creating Cross-region Load Balancing](https://www.skills.google/focuses/642?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=101061687)
+- [Set Up Application Load Balancers](https://www.skills.google/focuses/126803?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=101062489)
+- [Set Up Network Load Balancers](https://www.skills.google/focuses/12007?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=101062489)
+- [Use an Internal Application Load Balancer](https://www.skills.google/focuses/1910?catalog_rank=%7B%22rank%22%3A7%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=101062489)
+
+
+
+
+
 ## Challenge labs 
 - [Set Up a Google Cloud Network: Challenge Lab](https://www.skills.google/focuses/10417?parent=catalog)
 - [Configure Service Accounts and IAM Roles for Google Cloud: Challenge Lab](https://www.skills.google/focuses/67219?parent=catalog)
