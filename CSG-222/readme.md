@@ -16,3 +16,4 @@
 - [Performance and Cost Optimization with BigQuery](https://www.skills.google/focuses/78061?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=58124795)
 - [Troubleshooting and Solving Data Join Pitfalls](https://www.skills.google/focuses/3638?catalog_rank=%7B%22rank%22%3A95%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=58125652)
 - [Using BigQuery and Cloud Logging to Analyze BigQuery Usage](https://www.skills.google/focuses/6100?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=101174837)
+- [Analyze BigQuery Usage with Observability Analytics](https://github.com/sahil7879/lpu-btech-7th-sem/blob/main/CSG-401/project%20end%20to%20end%20using%20terraform%20in%20google%20cloud.md)
