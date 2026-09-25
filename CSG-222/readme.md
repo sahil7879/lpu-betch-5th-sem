@@ -15,3 +15,4 @@
 - [LakeHouse: Qwik Start](https://www.cloudskillsboost.google/focuses/37985?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=54073217)
 - [Performance and Cost Optimization with BigQuery](https://www.skills.google/focuses/78061?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=58124795)
 - [Troubleshooting and Solving Data Join Pitfalls](https://www.skills.google/focuses/3638?catalog_rank=%7B%22rank%22%3A95%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=58125652)
+- [Using BigQuery and Cloud Logging to Analyze BigQuery Usage](https://www.skills.google/focuses/6100?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=101174837)
