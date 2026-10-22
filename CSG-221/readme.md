@@ -30,7 +30,8 @@
 - [Set Up Application Load Balancers](https://www.skills.google/focuses/126803?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=101062489)
 - [Set Up Network Load Balancers](https://www.skills.google/focuses/12007?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=101062489)
 - [Use an Internal Application Load Balancer](https://www.skills.google/focuses/1910?catalog_rank=%7B%22rank%22%3A7%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=101062489)
-
+- [Infrastructure as Code with Terraform](https://www.cloudskillsboost.google/paths/11/course_templates/443/labs/508950)
+- [Terraform Essentials: Google Compute Engine Instance](https://www.cloudskillsboost.google/focuses/127762?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=52122329)
 
 
 
