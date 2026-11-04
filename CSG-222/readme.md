@@ -20,3 +20,5 @@
 - [Secure BigQuery Data with Fine-Grained Access Controls](https://www.skills.google/focuses/164625?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=103565369)
 - [Working with Cloud Dataprep on Google Cloud](https://www.skills.google/focuses/610?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=103785103)
 - [Getting Started with Cloud Data Fusion](https://www.skills.google/focuses/12358?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=103785269)
+- [Getting Started with BigQuery ML](https://www.skills.google/focuses/2157?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=105019334)
+- [Predict Taxi Fare with a BigQuery ML Forecasting Model](https://www.skills.google/focuses/1797?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=105019334)
